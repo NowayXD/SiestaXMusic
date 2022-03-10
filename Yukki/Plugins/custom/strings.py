@@ -28,10 +28,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="📣 Updates Channel", url="https://t.me/Tgcalls_Music_update"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="💬 Support Group", url="https://t.me/Tgcalls_MusicxChat"
             ),                       
         ],        
     ]
@@ -50,10 +50,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="📣 Updates Channel", url="https://t.me/Tgcalls_Music_update"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="💬 Support Group", url="https://t.me/Tgcalls_MusicxChat"
             ),                       
         ],        
     ]
@@ -135,7 +135,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="More Sudo Commands", url="https://telegra.ph/SiestaXMusic-Sudo-Commands-02-08"
+                text="More Sudo Commands", url="https://telegra.ph/PyTgMusicBit-02-16"
             ),                        
         ],
         [
