@@ -560,7 +560,7 @@ async def playout_end(pytgclients, chat_id):
                         photo="Utils/Telegram.JPEG",
                         reply_markup=InlineKeyboardMarkup(buttons),
                         caption=(
-                            f"**Video Streaming**\n\n🎥<b>__Started Playing:__ </b>Next Video from Telegram \n👤**__Requested by:__** {mention}"
+                            f"**📺 Video Streaming 📺**\n\n⭕ <b>__Started Playing:__ </b>Next Video from Telegram \n🎸**__Requested by:__** {mention}"
                         ),
                     )
                 else:
